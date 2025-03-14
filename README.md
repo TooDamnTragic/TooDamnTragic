@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing a Bachelors of Science in [Cybersecurity](https://www.rit.edu/study/cybersecurity-bs) with Minors in [Mathematics](https://www.rit.edu/study/mathematics-minor) and [Networking and Systems Administration Minor](https://www.rit.edu/study/networking-and-systems-administration-minor)
 
-- 👨‍💻 All of my projects are available here on [Github](https://github.com/LyingScholar)
+- 👨‍💻 All of my projects are available here on [Github](https://github.com/LyingScholar) and [Devpost](https://devpost.com/LyingScholar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 - 📫 Email me at [banana@mail.rit.edu](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=banana@mail.rit.edu) or [annoyingcracks@proton.me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=annoyingcracks@proton.me)
 
