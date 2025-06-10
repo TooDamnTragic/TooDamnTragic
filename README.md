@@ -12,6 +12,7 @@
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=TooDamnTragic&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://nirzak-streak-stats.vercel.app/?user=TooDamnTragic&theme=merko&hide_border=false)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=TooDamnTragic&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TooDamnTragic&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
