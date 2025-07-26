@@ -16,6 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TooDamnTragic&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+scroll down to see a cat i spent a summer with 😺👇
+
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TooDamnTragic&show_icons=true&locale=en" alt="TooDamnTragic" /></p> -->
 
 <h3 align="left">Languages and Tools:</h3>
